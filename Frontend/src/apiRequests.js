@@ -8,7 +8,7 @@ const getAllStatus = () => {
 
 const updateStatus = (id, obj) => {
     const request = axios.put(`${baseUrl}/${id}`, obj)
-    return request.then(response => response.data)
+     return request.then(response => response.data)
 }
 
 export default {
