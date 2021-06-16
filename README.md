@@ -10,6 +10,7 @@ In the project directory, you can run:
   
 ./frontend directory for the frontend
 ### `npm start`  
+//
   
  backend directory for the server
  ### `npm run dev`  
